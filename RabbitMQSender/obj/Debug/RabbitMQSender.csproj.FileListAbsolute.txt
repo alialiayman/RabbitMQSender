@@ -1,0 +1,15 @@
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\RabbitMQSender.exe.config
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\RabbitMQSender.exe
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\RabbitMQSender.pdb
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\RabbitMQ.Client.dll
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\Projects\RabbitMQSender\RabbitMQSender\bin\Debug\RabbitMQ.Client.xml
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.csprojResolveAssemblyReference.cache
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.Form1.resources
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.Properties.Resources.resources
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.csproj.GenerateResource.cache
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.csproj.CoreCompileInputs.cache
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.csproj.CopyComplete
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.exe
+c:\Projects\RabbitMQSender\RabbitMQSender\obj\Debug\RabbitMQSender.pdb

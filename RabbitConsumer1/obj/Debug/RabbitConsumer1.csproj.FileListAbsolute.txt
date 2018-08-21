@@ -1,0 +1,15 @@
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\RabbitConsumer1.exe.config
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\RabbitConsumer1.exe
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\RabbitConsumer1.pdb
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\RabbitMQ.Client.dll
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\Projects\RabbitMQSender\RabbitConsumer1\bin\Debug\RabbitMQ.Client.xml
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.csprojResolveAssemblyReference.cache
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.Properties.Resources.resources
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.csproj.GenerateResource.cache
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.csproj.CoreCompileInputs.cache
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.csproj.CopyComplete
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.exe
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.pdb
+c:\Projects\RabbitMQSender\RabbitConsumer1\obj\Debug\RabbitConsumer1.Form1.resources
